@@ -2,8 +2,7 @@
 <h3 align="center">One of the best Blooket hacks.</h3>
 
 #### Made by rxzyx (rzx). This is purley for education purposes.
-- 📫 Have a problem? **Just open an issue and I will do my best to respond.**
-- 📫 Have a request? **Just open an issue and put at the start 'Request: '**
+- 📫 Have a problem or a request? **Just open an issue (with the right preferences) and I will do my best to respond.**
 
 ## How To Use:
 #### Desktop: 
